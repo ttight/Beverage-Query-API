@@ -3,7 +3,7 @@ from flask_restful import Api, Resource, reqparse, url_for
 from scraperMain import scrape
 import pandas as pd
 
-app = Flask('Minibar_Scraper', template_folder='/Users/ttight/Desktop/Proj /templates')
+app = Flask('Minibar_Scraper', template_folder='templates')
 api = Api(app)
 
 #First screen with form 
