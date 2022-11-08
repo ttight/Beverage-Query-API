@@ -6,7 +6,7 @@ class cookieMaker():
     def generate_cookie(state, address, city):
 
         #My gmaps API key 
-        gmaps_key = googlemaps.Client("AIzaSyCMQyRgk0EbBNZ6WRyy-DWwkjO1dmV8vcw")
+        gmaps_key = googlemaps.Client("API KEY HERE")
 
         #This is a part of the cookia data that minibar saves, but doesn't actually effect the scraping data
         fakeLocal_id = "0435b4ab-1b89-41c2-8506-14b922cfe2df"
