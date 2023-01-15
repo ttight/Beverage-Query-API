@@ -1,3 +1,6 @@
+PROJECT: Build a scraper that allows a user to query basic procuct metadata
+for beverages.
+
 This repo containes 6 Files: Below is a description of their function
 
 
