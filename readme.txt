@@ -1,4 +1,4 @@
-PROJECT: Build an api that allows a user to query basic procuct metadata
+PROJECT: Build an api that allows a user to query basic product metadata
 for beverages.
 
 This repo containes 6 Files: Below is a description of their function
