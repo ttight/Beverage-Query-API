@@ -14,7 +14,9 @@ Example Output:
      Beverage: "Gatorade Thirst Quencher Lemon/Lime (20 oz)"
      Price: "$3.99"
      Lowest Delivery Fee: "2.99"
-     Description: "With a legacy over 50 years in the making, it’s the most scientifically researched and game-tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, which is why it’s trusted by some of the world’s best athletes."
+     Description: "With a legacy over 50 years in the making, it’s the most scientifically researched 
+     and game-tested way to replace electrolytes lost in sweat. Gatorade hydrates better than water, 
+     which is why it’s trusted by some of the world’s best athletes."
         
 
 This repo containes 6 Files: Below is a description of their function
